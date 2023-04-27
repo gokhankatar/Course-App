@@ -1,0 +1,11 @@
+img{
+    width: 150px;
+    height: 55px;
+}
+body{
+    background: linear-gradient(to bottom, #fff,#fff,purple,black);
+    min-height: 100vh;
+}
+.container{
+    margin-top: 180px !important;
+}
